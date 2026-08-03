@@ -23,6 +23,6 @@ The public repositories demonstrate bounded prototypes, documented methods, and 
 
 ### Authorship
 
-Tavio Lawrence defines the architecture, authority boundaries, and acceptance decisions. AI agents may assist with bounded implementation and review; their output is checked against repository truth and explicit claim limits.
+I define the architecture, authority boundaries, and acceptance decisions. AI agents may assist with bounded implementation and review; their output is checked against repository truth and explicit claim limits.
 
 [Explore Second Mind Systems](https://github.com/Secondmindsystems/second-mind-systems) · [View the portfolio](https://github.com/Secondmindsystems/governed-ai-systems-portfolio) · [Run the demo](https://github.com/Secondmindsystems/governed-change-demo)
