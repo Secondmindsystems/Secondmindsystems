@@ -4,6 +4,8 @@
 
 I design AI-assisted systems that separate capability from authority, preserve human decision rights, and return inspectable evidence instead of asking for blind trust.
 
+Contact: **secondmindsystems@gmail.com** · [Evidence portfolio](https://github.com/Secondmindsystems/governed-ai-systems-portfolio)
+
 ### Start with runnable proof
 
 1. **[Governed Change Demo](https://github.com/Secondmindsystems/governed-change-demo)** — a public, deterministic reference implementation of governed change. [Run it in five minutes](https://github.com/Secondmindsystems/governed-change-demo#five-minute-run).
