@@ -1,8 +1,8 @@
 # Tavio Lawrence
 
-## Founder, Second Mind Systems
+## AI Systems & Harness Engineer
 
-I design and implement governed AI systems and workflows, with a focus on agent reliability, eval design, behavior and control specifications, authority boundaries, review gates, and inspectable execution.
+I build harnesses and systems around AI models that shape how they reason, use context, stay within boundaries, evaluate their work, and produce evidence about what they did. My work spans reasoning and behavior structures, agent evaluation, authorization, developer safeguards, and governed execution.
 
 Second Mind Systems works across AI systems architecture, workflow diagnosis and implementation, agent reliability, evaluation, behavioral controls, and governed AI workflows.
 
